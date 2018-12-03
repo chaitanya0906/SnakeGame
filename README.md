@@ -2,7 +2,7 @@
 Simple Snake Game using C++ 
 # Compile using g++ SnakeGame.cpp
 # ./a.out to start
-#  W
+#   W
 # A D
-#  S
+#   S
 # Play using Keyboard
